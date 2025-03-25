@@ -1,6 +1,11 @@
 {
   "plugins": [
     {
+      "name": "Audiomack",
+      "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/audiomack\/index.js",
+      "version": "0.0.2"
+    },
+    {
       "name": "歌词网",
       "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/geciwang\/index.js",
       "version": "0.0.0"
